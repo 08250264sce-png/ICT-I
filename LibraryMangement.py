@@ -1,4 +1,4 @@
-books_list = ["The tentacles of love"]
+books_list = []
 authors_set = set()
 books_dict = {}
 books_list.append("Python Programming")
